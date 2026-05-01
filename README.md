@@ -1,5 +1,7 @@
 # 멀티 플레이 위치 & 회전 동기화
 
+`CharacterMovementComponent` 코드를 분석하여 멀티플레이 환경에서 발생하는 위치 & 회전 동기화 이슈를 처리한 사례를 정리한 문서입니다.
+
 동기화 개선 전 : https://youtu.be/hBrK3vnA3Gw    
 동기화 개선 후 : https://youtu.be/HI4U5aYqghw
 
