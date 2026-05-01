@@ -1,7 +1,7 @@
 # 멀티 플레이 위치 & 회전 동기화
 
 동기화 개선 전 : https://youtu.be/hBrK3vnA3Gw    
-동기화 개선 후 : https://youtu.be/f-JI8zoj7GA    
+동기화 개선 후 : https://youtu.be/HI4U5aYqghw
 
 ### 위치보정 이슈 처리
 멀티플레이 환경을 고려하며 개발하며 `RootMotion`과 회전을 같이 사용하는 과정에서 캐릭터의 움직임이 버벅이는 보정 현상이 발생했습니다.  
